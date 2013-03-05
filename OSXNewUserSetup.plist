@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!"This file should be used in the user template. /System/Library/User Template/English.lproj/Library/LaunchAgents">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+	<string>OSXNewUserSetup</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/bin/OSXNewUserSetup.sh</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+</dict>
+</plist>
