@@ -7,9 +7,9 @@ http://musings.silvertooth.us/projects/apple-new-userhome-directory-fixes/
 
 Below is a link to a security document published by Apple that is part of the reason why I created this script.
 
-#http://images.apple.com/support/security/guides/docs/SnowLeopard_Security_Config_v10.16.pdf
+*http://images.apple.com/support/security/guides/docs/SnowLeopard_Security_Config_v10.6.pdf*
 
-How to use
+How to use these scripts.
 
 You need all 3 files in the same directory: OSXNewUserSetup.command, OSXNewUserScript.sh, and OSXNewUserSetup.plist.
 
